@@ -1,0 +1,5 @@
+__pycache__/
+student_manager_data.json*
+student_*.txt
+all_students_report.*
+chart_*.png
